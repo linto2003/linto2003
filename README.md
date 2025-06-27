@@ -85,6 +85,6 @@
 ## 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lintomon-john/)
-- 📫 Email: lintomon.john@example.com
+- 📫 Email: lintosaji.1990@gmail.com
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=linto2003&color=blue)
