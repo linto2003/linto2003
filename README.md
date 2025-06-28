@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Linto (Lintomon John)</h1>
+<h1 align="center">👋 Hi, I'm Linto (Lintomon Saji Chirakkara)</h1>
 <h3 align="center">Software Developer | Blockchain & AI Explorer </h3>
 
 <p align="center">
